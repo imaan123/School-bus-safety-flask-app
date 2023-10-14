@@ -1,1 +1,1 @@
-# School-bus-tracking-flask-app
+A school bus tracking application using python - flask.
